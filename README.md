@@ -6,7 +6,13 @@ At present, we modify a base Estes kit with 3d-printed parts. Future editions sh
 
 ## Bill of Materials
 * 1 x [Estes EX-200 kit](http://www.estesrockets.com/rockets/rtf/002450-ex-200tm)
-* 1 x Nose Cone model from physibles/current
+* 1 x Paraboloid Nose Cone model from physibles/18mm
+* 1 x Body Tube 18mmx130mm model from physibles/18mm
+* 1 x Body Tube 18mmx50mm model from physibles/18mm
+* 1 x Body Tube Coupler with hook model from physibles/18mm
+
+## Printing Pointers
+Use callipers to measure your filament diameter. Underextrusion/overextrusion will KILL some of these prints. Print at 100% infill for body tubes, make sure you have good cooling and a SLOW extrusion rate (30mm/s is the our max). For nose cones, smaller infill is better, we use 20%. Complex parts like couplers and nosecones with hooks need support material. Sand all parts to be as smooth as you can get them, especially areas where support material was removed.
 
 
 # License
