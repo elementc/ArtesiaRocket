@@ -8,23 +8,24 @@ We emulate an existing simple Estes rocket (the EX-200) which features a mini en
 * 1 x [Estes EX-200 kit](http://www.estesrockets.com/rockets/rtf/002450-ex-200tm), in particular:
   * 1 x Shock cord
   * 1 x Parachute
-* 1 x Engine Retention Ring model from physibles/18mm (These are fragile so you may want to print some duplicates. They print fast.)
-* 1 x Engine Mount and Fin Assembly model from physibles/18mm
-* 1 x Paraboloid Nose Cone model from physibles/18mm
-* 1 x Body Tube 18mmx130mm model from physibles/18mm
-* 1 x Body Tube 18mmx50mm model from physibles/18mm
-* 1 x Body Tube Coupler with hook model from physibles/18mm
-* Glue
+* 1 x Engine Retention Ring model from physibles/20mm (These are fragile so you may want to print some duplicates. They print fast.)
+* 1 x Engine Mount model from physibles/20mm
+* 4 x Fin model from physibles/20mm
+* 1 x Paraboloid Nose Cone model from physibles/20mm
+* 1 x Body Tube 130mm model from physibles/20mm
+* 1 x Body Tube 50mm model from physibles/20mm
+* 1 x Body Tube Coupler with hook model from physibles/20mm
+* Glue (superglue works great!)
 * Masking Tape
 * Paint
 
 ## Assembly
 1. Print all physibles. Clean off support materials as needed. Sand until smooth.
-2. Glue longer body tube onto engine mount and fin assembly.
-3. Tie shock cord to coupler internal loop.
-4. Glue coupler to other end of longer body tube.
-5. Pull free end of shock cord through short body tube.
-6. Glue short body tube to coupler.
+2. Glue fins into slots on engine mount. Glue shorter body tube onto engine mount ring.
+3. Tie shock cord to coupler inner beam.
+4. Glue coupler to other end of shorter body tube.
+5. Pull free end of shock cord through long body tube.
+6. Glue long body tube to coupler.
 7. Tie free end of shock cord to nose cone loop.
 8. Apply tape as necessary to nose cone friction mount. Should be able to slide into free body tube end and remain securely but pop off relatively easily.
 9. Tie parachute to nose cone loop.
